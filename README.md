@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Anamika Kumari's GitHub Profile 🌟</h1>
+  <h1>Anamika Kumari's GitHub Portfolio 🌟</h1>
   <p>👩‍🎓 Student | 👩‍💻 Developer | 🤖 AI Enthusiast</p>
 </div>
 
