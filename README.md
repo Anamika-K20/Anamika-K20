@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>Anamika Kumari's GitHub Profile</h1>
-  <p>Student | Developer | AI Enthusiast</p>
+  <h1>Anamika Kumari's GitHub Profile 🌟</h1>
+  <p>👩‍🎓 Student | 👩‍💻 Developer | 🤖 AI Enthusiast</p>
 </div>
 
 ---
 
-## About Me
+## About Me 🚀
 
 Hey there! I'm Anamika Kumari, a passionate student with a deep interest in software development, artificial intelligence, and machine learning. I love creating innovative solutions to real-world problems and exploring new technologies to expand my skills.
 
 ---
 
-## Projects Showcase
+## Projects Showcase 🌐
 
 ### Student Result Management System (C++, OOP)
 - Designed and implemented a Student Result Management System using C++ and Object-Oriented Programming principles.
@@ -30,29 +30,29 @@ Hey there! I'm Anamika Kumari, a passionate student with a deep interest in soft
 
 ---
 
-## Publications
+## Publications 📚
 
-### Sentiment-Driven Music Recommendations
+### Sentiment-Driven Music Recommendations 🎵
 - Presented at Global Conference on Information Technologies and Communications (December 2023).
 - Conducted a comparative study on ML algorithms for sentiment-driven music recommendations and implemented a chatbot for user interaction.
 
-### Social Media Data Analysis for Emotion Detection
+### Social Media Data Analysis for Emotion Detection 😊
 - Presented at 5th International Conference on Artificial Intelligence and Speech Technology (December 2023).
 - Achieved 78% accuracy in identifying emotional states in social media text, contributing to early intervention in mental health concerns.
 
-### Speaker Identification using ML Algorithms
+### Speaker Identification using ML Algorithms 🎙️
 - Presented at 14th International Conference on Cloud Computing, Data Science & Engineering (January 2024).
 - Implemented ML models for speaker recognition, leading to valuable insights for biometric authentication systems.
 
 ---
 
-## Connect with Me
+## Connect with Me 📞
 
 Let's connect and collaborate on exciting projects!
 
-- LinkedIn: [Connect](https://www.linkedin.com/in/anamika-kumari)
-- Twitter: [Follow](https://twitter.com/anamikakumari)
-- Email: [Contact](mailto:your.email@example.com)
+- LinkedIn: [Connect](https://www.linkedin.com/in/anamika-kumari) 🌐
+- Twitter: [Follow](https://twitter.com/anamikakumari) 🐦
+- Email: [Contact](mailto:anamikawork2004@gmail.com) ✉️
 
 ---
 
