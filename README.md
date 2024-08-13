@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there! I'm Anamika Kumari,</h1>
+  <h1>Hey there! I'm Anamika Kumari</h1>
   <p>👩‍🎓 Student | 👩‍💻 Developer | 🤖 AI Enthusiast</p>
 </div>
 
