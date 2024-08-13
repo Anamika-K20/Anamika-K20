@@ -1,4 +1,4 @@
-![Repository Banner](https://raw.githubusercontent.com/GITHUB-USERNAME/GITHUB-USERNAME/banner_photo.png)
+![Repository Banner]([https://raw.githubusercontent.com/GITHUB-USERNAME/GITHUB-USERNAME/banner_photo.png](https://github.com/Anamika-K20/Anamika-K20/blob/main/github.jpeg))
 <div align="center">
   <h1>Anamika Kumari's GitHub Portfolio 🌟</h1>
   <p>👩‍🎓 Student | 👩‍💻 Developer | 🤖 AI Enthusiast</p>
