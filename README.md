@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Anamika Kumari's GitHub Portfolio 🌟</h1>
+  <h1>Hey there! I'm Anamika Kumari,</h1>
   <p>👩‍🎓 Student | 👩‍💻 Developer | 🤖 AI Enthusiast</p>
 </div>
 
@@ -7,7 +7,7 @@
 
 ## About Me 🚀
 
-Hey there! I'm Anamika Kumari, a passionate student with a deep interest in software development, artificial intelligence, and machine learning. I love creating innovative solutions to real-world problems and exploring new technologies to expand my skills.
+A passionate student with a deep interest in software development, artificial intelligence, and machine learning. I love creating innovative solutions to real-world problems and exploring new technologies to expand my skills.
 
 ---
 
